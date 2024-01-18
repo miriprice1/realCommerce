@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "obZ9l1884i36tlshS2Opox0wG1ZhlJeFNs2OL9UwiEY=",
+  "Source": "google news2",
+  "BasePath": "_content/google news2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "google news2\\wwwroot",
+      "Source": "google news2",
+      "ContentRoot": "C:\\Users\\1\\Desktop\\google news2\\google news2\\wwwroot\\",
+      "BasePath": "_content/google news2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\1\\Desktop\\google news2\\google news2\\wwwroot\\index.html",
+      "SourceId": "google news2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\1\\Desktop\\google news2\\google news2\\wwwroot\\",
+      "BasePath": "_content/google news2",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\1\\Desktop\\google news2\\google news2\\wwwroot\\script.js",
+      "SourceId": "google news2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\1\\Desktop\\google news2\\google news2\\wwwroot\\",
+      "BasePath": "_content/google news2",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\1\\Desktop\\google news2\\google news2\\wwwroot\\style.css",
+      "SourceId": "google news2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\1\\Desktop\\google news2\\google news2\\wwwroot\\",
+      "BasePath": "_content/google news2",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}

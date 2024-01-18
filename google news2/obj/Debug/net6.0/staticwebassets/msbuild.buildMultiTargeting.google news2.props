@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\google news2.props" />
+</Project>

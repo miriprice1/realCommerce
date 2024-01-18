@@ -1,0 +1,41 @@
+C:\Users\1\Desktop\google news2\google news2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\1\Desktop\google news2\google news2\bin\Debug\net6.0\appsettings.json
+C:\Users\1\Desktop\google news2\google news2\bin\Debug\net6.0\google news2.exe
+C:\Users\1\Desktop\google news2\google news2\bin\Debug\net6.0\google news2.deps.json
+C:\Users\1\Desktop\google news2\google news2\bin\Debug\net6.0\google news2.runtimeconfig.json
+C:\Users\1\Desktop\google news2\google news2\bin\Debug\net6.0\google news2.dll
+C:\Users\1\Desktop\google news2\google news2\bin\Debug\net6.0\google news2.pdb
+C:\Users\1\Desktop\google news2\google news2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\1\Desktop\google news2\google news2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\1\Desktop\google news2\google news2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\1\Desktop\google news2\google news2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\1\Desktop\google news2\google news2\bin\Debug\net6.0\DAL.dll
+C:\Users\1\Desktop\google news2\google news2\bin\Debug\net6.0\DAL.pdb
+C:\Users\1\Desktop\google news2\google news2\obj\Debug\net6.0\google news2.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\google news2\google news2\obj\Debug\net6.0\google news2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\google news2\google news2\obj\Debug\net6.0\google news2.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\google news2\google news2\obj\Debug\net6.0\google news2.AssemblyInfo.cs
+C:\Users\1\Desktop\google news2\google news2\obj\Debug\net6.0\google news2.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\google news2\google news2\obj\Debug\net6.0\google news2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\1\Desktop\google news2\google news2\obj\Debug\net6.0\google news2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\Desktop\google news2\google news2\obj\Debug\net6.0\staticwebassets\msbuild.google news2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\1\Desktop\google news2\google news2\obj\Debug\net6.0\staticwebassets\msbuild.build.google news2.props
+C:\Users\1\Desktop\google news2\google news2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.google news2.props
+C:\Users\1\Desktop\google news2\google news2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.google news2.props
+C:\Users\1\Desktop\google news2\google news2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\1\Desktop\google news2\google news2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\1\Desktop\google news2\google news2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\1\Desktop\google news2\google news2\obj\Debug\net6.0\scopedcss\bundle\google news2.styles.css
+C:\Users\1\Desktop\google news2\google news2\obj\Debug\net6.0\google news2.csproj.CopyComplete
+C:\Users\1\Desktop\google news2\google news2\obj\Debug\net6.0\google news2.dll
+C:\Users\1\Desktop\google news2\google news2\obj\Debug\net6.0\refint\google news2.dll
+C:\Users\1\Desktop\google news2\google news2\obj\Debug\net6.0\google news2.pdb
+C:\Users\1\Desktop\google news2\google news2\obj\Debug\net6.0\google news2.genruntimeconfig.cache
+C:\Users\1\Desktop\google news2\google news2\obj\Debug\net6.0\ref\google news2.dll
+C:\Users\1\Desktop\google news2\google news2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\1\Desktop\google news2\google news2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\1\Desktop\google news2\google news2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\1\Desktop\google news2\google news2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\1\Desktop\google news2\google news2\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\1\Desktop\google news2\google news2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\1\Desktop\google news2\google news2\bin\Debug\net6.0\google news2.staticwebassets.runtime.json
